@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=Rect&text=WooJoo's%20github&color=6E6E6E&fontColor=ffffff&height=150&fontSize=65&section=header) -->
 <div align="center">
-  <h2> Hello I'm Woojoo Kim ♂️🙋‍</h2>
+  <h2> Hello I'm Woojoo Kim :raised_hands:</h2>
   <h3>😆 Welcome my github profile 😆</h3><br>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fghvhdh321%2F&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23EEEAEA&title=Github&edge_flat=false"/></a>
   <h3>📚 Stack </h3>
