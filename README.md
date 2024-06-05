@@ -29,4 +29,6 @@
   
   ![ghvhdh333's github stats](https://github-readme-stats.vercel.app/api?username=ghvhdh333&show_icons=true)
   <!--https://simpleicons.org/ -->
+
+  2024.06.06 이전엔 git email과 github email이 달라 잔디가 심어지지 않았습니다. 🥹
 </div>
